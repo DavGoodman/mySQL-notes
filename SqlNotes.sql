@@ -1,5 +1,8 @@
 -------------------CRUD------------------------------
 -----------------------------------------------------
+// select database to query
+USE <databaseName>
+    
 -- CRUD = CREATE READ UPDATE DELETE
 
 -- Creates new database
