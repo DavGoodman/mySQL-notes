@@ -1,6 +1,6 @@
 -------------------CRUD------------------------------
 -----------------------------------------------------
-// select database to query
+-- select a database to query
 USE <databaseName>
     
 -- CRUD = CREATE READ UPDATE DELETE
